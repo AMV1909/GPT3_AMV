@@ -8,7 +8,7 @@ Modern UI/UX GPT-3 is a website created with the most modern UI/UX design and de
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-## Technologies
+## Features
 
 -   React Functional components and their reusability
 -   React file and folder structure
