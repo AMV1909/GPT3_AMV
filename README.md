@@ -4,7 +4,7 @@
 
 Modern UI/UX GPT-3 is a website created with the most modern UI/UX design and development techniques. The website is built using React. The website is hosted on GitHub Pages.
 
-### [Live Site](https://amv1909.github.io/GPT3_AMV/)
+### [Live Site](./img/gpt3_amv.png)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
